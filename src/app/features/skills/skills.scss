@@ -39,6 +39,7 @@
   transition: all 0.3s ease;
   text-align: center;
   font-size: 0.875rem;
+  flex-wrap: nowrap;
 
   &:hover {
     background: rgba(99, 102, 241, 0.2);
