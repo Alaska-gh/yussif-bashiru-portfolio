@@ -10,6 +10,10 @@
     "src/**/*.ts"
   ],
   "exclude": [
-    "src/**/*.spec.ts"
+    "src/**/*.spec.ts",
+    "tailwind.config.js",
+    "postcss.config.js",
+    "webpack.config.js",
+    "node_modules"
   ]
 }
